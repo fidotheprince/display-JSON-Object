@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{E6288CA9-5292-484A-9DC8-C23EDD8BA515}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="displayJSON/Views/Web.config">
+    <Files>
+      <File FileName="displayJSON/Controllers/HomeController.cs" Line="13" Column="10" />
+      <File FileName="displayJSON/packages.config" Line="1" Column="1" />
+      <File FileName="displayJSON.Tests/packages.config" Line="1" Column="1" />
+      <File FileName="displayJSON/Global.asax.cs" Line="1" Column="1" />
+      <File FileName="displayJSON/Global.asax" Line="1" Column="1" />
+      <File FileName="displayJSON/Web.config" Line="1" Column="1" />
+      <File FileName="displayJSON/Views/Web.config" Line="10" Column="96" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="displayJSON" expanded="True">
+            <Node name="displayJSON" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Web.config" selected="True" />
+              </Node>
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+            <Node name="displayJSON.Tests" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="displayJSON" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.displayJSON PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.displayJSON.Tests FirstBuild="True" />
+</Properties>
