@@ -1,24 +1,21 @@
 ﻿<Properties StartupConfiguration="{E6288CA9-5292-484A-9DC8-C23EDD8BA515}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="displayJSON/Models/Employee.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="displayJSON/Views/Home/EmpDetails.cshtml">
     <Files>
-      <File FileName="displayJSON/Controllers/HomeController.cs" Line="13" Column="10" />
-      <File FileName="displayJSON/Models/Employee.cs" Line="6" Column="1" />
+      <File FileName="displayJSON/Controllers/HomeController.cs" Line="27" Column="34" />
+      <File FileName="displayJSON/Models/Employee.cs" Line="8" Column="41" />
+      <File FileName="displayJSON/Views/Home/EmpDetails.cshtml" Line="2" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="displayJSON" expanded="True">
             <Node name="displayJSON" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="Employee.cs" selected="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="EmpDetails.cshtml" selected="True" />
+                </Node>
               </Node>
-              <Node name="Views" expanded="True" />
-              <Node name="Global.asax" expanded="True" />
-            </Node>
-            <Node name="displayJSON.Tests" expanded="True">
-              <Node name="Packages" expanded="True" />
-              <Node name="Controllers" expanded="True" />
             </Node>
           </Node>
         </State>
