@@ -1,22 +1,18 @@
 ﻿<Properties StartupConfiguration="{E6288CA9-5292-484A-9DC8-C23EDD8BA515}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="displayJSON/Views/Home/EmpDetails.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="displayJSON.sln">
     <Files>
-      <File FileName="displayJSON/Controllers/HomeController.cs" Line="27" Column="34" />
+      <File FileName="displayJSON/Controllers/HomeController.cs" Line="15" Column="27" />
       <File FileName="displayJSON/Models/Employee.cs" Line="8" Column="41" />
-      <File FileName="displayJSON/Views/Home/EmpDetails.cshtml" Line="2" Column="2" />
+      <File FileName="displayJSON/Views/Home/EmpDetails.cshtml" Line="22" Column="1" />
+      <File FileName="displayJSON/Views/Home/Index.cshtml" Line="2" Column="30" />
+      <File FileName="displayJSON.sln" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="displayJSON" expanded="True">
-            <Node name="displayJSON" expanded="True">
-              <Node name="Scripts" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="EmpDetails.cshtml" selected="True" />
-                </Node>
-              </Node>
-            </Node>
+            <Node name="Solution Items" selected="True" />
+            <Node name="displayJSON" expanded="True" />
           </Node>
         </State>
       </Pad>

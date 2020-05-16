@@ -5,6 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "displayJSON", "displayJSON\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "displayJSON.Tests", "displayJSON.Tests\displayJSON.Tests.csproj", "{1D4CBBB6-1136-45B8-9DC2-2AE0DD09E8CE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4303D3EF-092E-4144-94E8-B7706A1B5147}"
+	ProjectSection(SolutionItems) = preProject
+		displayJSON.sln = displayJSON.sln
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

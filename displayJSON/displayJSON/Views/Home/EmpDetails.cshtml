@@ -1,4 +1,89 @@
 ﻿<!--dynamically renders list into a table-->
-<script src="~/Scripts/jquery-3.5.1.min.js">
+<script src="displayJSON/Scripts/jquery-3.5.1.min.js">
+    
+    $(document).ready(function () {
 
-</script>
+        //Calls the controller - jsonResult EmpDetails
+        $.getJSON("Home/EmpDetails",
+
+            //passes empl obj as parameter 
+            function (json) {
+
+
+                var tr;
+
+                //for loop iterates and dynamically renders each index in list 
+
+                for (var i = 0; i < json.length; i++) {
+
+                    //variable tr instantiated
+
+                    tr = $('<tr/>');
+
+                    tr.append("<td>" + json[id].Id + "</td>");
+                    tr.append("<td>" + json[id].Name + "</td>");
+                    tr.append("<td>" + json[id].City + "</td>");
+
+
+                    $('table').append(tr);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                }//for loop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            })//.getJSON fn()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    });
+    </script>
+
+
+
+<table class="table table-bordered table-condensed table-hover table-striped">
+
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>City</th>
+        </tr>
+    </thead>
+
+</table>
